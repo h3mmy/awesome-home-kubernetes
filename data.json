@@ -192,6 +192,11 @@
       "repo": "locmai/humble",
       "description": "A humble Kubernetes cluster managed by ArgoCD",
       "gitops_tool": "argocd"
+    },
+    {
+      "repo": "h3mmy/bloopysphere",
+      "description": "Flux2 managed k3s cluster with Ansible and SOPS using mixed architecture. Still under construction",
+      "gitops_tool": "flux"
     }
   ],
   "chart_repositories": [
